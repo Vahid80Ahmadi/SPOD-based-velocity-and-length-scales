@@ -12,6 +12,8 @@ This code includes the required MATALB scripts for calculating the velocity and 
 
 - The *license.txt* summarize the terms and conditions for *spod.m*.
 
+- Raw data will be provided upon request. 
+
 - If you are using this code to calculate length and velocity scales, please kindly cite [1].
 
 - If you have any question, please do not hesitate to contact us via either of these emails.
