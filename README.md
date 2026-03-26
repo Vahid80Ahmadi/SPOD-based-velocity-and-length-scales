@@ -14,7 +14,7 @@ This code includes the required MATALB scripts for calculating the velocity and 
 
 - If you are using this code to calculate length and velocity scales, please kindly cite [1].
 
-- If you have any question, please do not hesitate to contact us via either of these email.
+- If you have any question, please do not hesitate to contact us via either of these emails.
   - Sina.kheirkhah@ubc.ca
   - vahid.ahmadi@ubc.ca
   - ahmadi.v.1380@gmail.com
