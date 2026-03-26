@@ -1,6 +1,6 @@
 # Spectral characteristics and a new Strouhal number scaling of noise emitting open hydrogen-enriched swirl-stabilized turbulent premixed flames
 
-The spectraly resolved velocity and length scales of noise sources in an open hydrogen-enriched swril-stablized can be defined using Spectral Proper Orthagonal Decomposition (PSOD). 
+The spectraly resolved velocity and length scales of noise sources in an open hydrogen-enriched swril-stablized can be defined using Spectral Proper Orthagonal Decomposition (SPOD). 
 
 This code includes the required MATALB scripts for calculating the velocity and lenght scales, and is cosidered as a part of supplementary material of [1]. The mathematical and physical explanation of this code is provided in [1]. 
 
