@@ -2,7 +2,7 @@
 
 The spectraly resolved velocity and length scales of noise sources in an open hydrogen-enriched swril-stablized can be defined using Spectral Proper Orthagonal Decomposition (PSOD). 
 
-This code includes the required MATALB scripts for calculating the velocity and lenght scales. The mathematical and physical explanation of this code is provided in [1]. 
+This code includes the required MATALB scripts for calculating the velocity and lenght scales, and is cosidered as a part of supplementary material of [1]. The mathematical and physical explanation of this code is provided in [1]. 
 
 - The *velocity_scale.m* and *lenght_scale.m* use the most energetic SPOM mode at each frequency to calculate velocity and lenght scales, respectively. 
 
