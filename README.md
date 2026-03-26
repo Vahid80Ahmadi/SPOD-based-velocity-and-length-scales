@@ -8,7 +8,7 @@ This code includes the required MATALB scripts for calculating the velocity and 
 
 - To obtain the SPOD modes, *main_spod.m* is used. The SPOD calculation was done using *spod.m*. For more details about SPOD please refer to [2].
 
-- The *spod.m* function can be find in this [link](https://www.mathworks.com/matlabcentral/fileexchange/65683-spectral-proper-orthogonal-decomposition-spod) or this [link](https://github.com/SpectralPOD/spod_matlab) as well.
+- The *spod.m* function can be either found in this [link](https://www.mathworks.com/matlabcentral/fileexchange/65683-spectral-proper-orthogonal-decomposition-spod) or this [link](https://github.com/SpectralPOD/spod_matlab) as well.
 
 - The *license.txt* summarize the terms and conditions for *spod.m*.
 
