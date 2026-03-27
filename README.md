@@ -21,7 +21,7 @@ This code includes the required MATALB scripts for calculating the velocity and 
   - vahid.ahmadi@ubc.ca
   - ahmadi.v.1380@gmail.com
 
-#Refrences
+# Refrences
 
 [1] V. Ahmadi, J. Fleger, J. Ho, S. Mohammadnejad, M. Talei, S. Kheirkhah, Spectral characteristics and a new Strouhal number scaling of noise emitting open hydrogen-enriched swirl-stabilized turbulent premixed flames, Int. J. Heat Fluid Flow.	
 
