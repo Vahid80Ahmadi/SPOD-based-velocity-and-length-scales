@@ -2,7 +2,7 @@
 
 The spectraly resolved velocity and length scales of noise sources in an open hydrogen-enriched swril-stablized can be defined using Spectral Proper Orthagonal Decomposition (SPOD). 
 
-This code includes the required MATALB scripts for calculating the velocity and lenght scales, and is cosidered as a part of supplementary material of [1]. The mathematical and physical explanation of this code is provided in [1]. 
+This code includes the required MATALB\textsuperscript{\textregistered} scripts for calculating the velocity and lenght scales, and is cosidered as a part of supplementary material of [1]. The mathematical and physical explanation of this code is provided in [1]. 
 
 - The *velocity_scale.m* and *lenght_scale.m* use the most energetic SPOD mode at each frequency to calculate velocity and lenght scales, respectively. 
 
@@ -12,7 +12,7 @@ This code includes the required MATALB scripts for calculating the velocity and 
 
 - The *license.txt* summarizes the terms and conditions for *spod.m*.
 
-- For local wavenumber calculations, a 2D regularized differentiation method similar to [3] was used. The relevant functions are included in *velocity_scale.m*. Since the included functions are just a MATLAB version of the python codes, which can be found in this [link](https://github.com/rickchartrand/regularized_differentiation/tree/master), provided by the author of [3], *lisence2.txt* explains the terms and conditions of the mentioned original code.
+- For local wavenumber calculations, a 2D regularized differentiation method similar to [3] was used. The relevant functions are included in *velocity_scale.m*. Since the included functions are just a MATLAB\textsuperscript{\textregistered} version of the python codes, which can be found in this [link](https://github.com/rickchartrand/regularized_differentiation/tree/master), provided by the author of [3], *lisence2.txt* explains the terms and conditions of the mentioned original code.
 
 - Raw data will be provided upon request. 
 
