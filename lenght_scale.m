@@ -7,7 +7,7 @@ test_condition = {'Phi10U03H000', 'Phi10U07H000', 'Phi10U11H000', 'Phi10U15H000'
                   'Phi10U03H040', 'Phi10U07H040', 'Phi10U11H040', 'Phi10U15H040', 'Phi10U19H040', 'Phi10U23H040'};
 
 
-for k = 9:9
+for k = 1:12
 
     load(['C:\Users\vahidah\OneDrive - UBC\Codes\OH\SPOD\' ...
     cell2mat(test_condition(k)) '\nfft1024_novlp512_nblks20\spod_energy.mat']);
@@ -16,7 +16,7 @@ for k = 9:9
     final_area = zeros(99,129);
     num = zeros(99,129);
 
-    for i = 25:25
+    for i = 2:129
 
         load(['C:\Users\vahidah\OneDrive - UBC\Codes\OH\SPOD\' ...
             cell2mat(test_condition(k)) '\nfft1024_novlp512_nblks20\' sprintf('spod_f%04d.mat', i)]);
