@@ -12,6 +12,8 @@ This code includes the required MATALB scripts for calculating the velocity and 
 
 - The *license.txt* summarizes the terms and conditions for *spod.m*.
 
+- For local wavenumber calculations, a 2D regularized differentiation method similar to [3] was used. The relevant functions are included in *velocity_scale.m*. Since the included functions are just a MATLAB version of the python codes, which can be found in this [link](https://github.com/rickchartrand/regularized_differentiation/tree/master), provided by the author of [3], *lisence2.txt* explains the terms and conditions of the mentioned original code.
+
 - Raw data will be provided upon request. 
 
 - If you are using this code to calculate length and velocity scales, please kindly cite [1].
@@ -25,4 +27,6 @@ This code includes the required MATALB scripts for calculating the velocity and 
 
 [1] V. Ahmadi, J. Fleger, J. Ho, S. Mohammadnejad, M. Talei, S. Kheirkhah, Spectral characteristics and a new Strouhal number scaling of noise emitting open hydrogen-enriched swirl-stabilized turbulent premixed flames, Int. J. Heat Fluid Flow.	
 
-[2]  A. Towne, O. T. Schmidt, T. Colonius, Spectral proper orthogonal decomposition and its relationship to dynamic mode decomposition and resolvent analysis, J. of Fluid Mech. 847, 821–867, 2018
+[2]  A. Towne, O. T. Schmidt, T. Colonius, Spectral proper orthogonal decomposition and its relationship to dynamic mode decomposition and resolvent analysis, J. of Fluid Mech. 847, 821–867, 2018.
+
+[3] R. Chartrand, Numerical differentiation of noisy, nonsmooth, multidimensional data, in: 2017 IEEE Global Conference on Signal and Information Processing (GlobalSIP), IEEE, 2017, pp. 244–248.
