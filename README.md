@@ -16,11 +16,6 @@ This code includes the required MATALB scripts for calculating the velocity and 
 
 - Raw data will be provided upon request. 
 
-- If you have any question, please do not hesitate to contact us via either of these emails.
-  - Sina.kheirkhah@ubc.ca
-  - vahid.ahmadi@ubc.ca
-  - ahmadi.v.1380@gmail.com
-
 # References
 
 [1] V. Ahmadi, J. Fleger, J. Ho, S. Mohammadnejad, M. Talei, S. Kheirkhah, Spectral characteristics and a new Strouhal number scaling of noise emitting open hydrogen-enriched swirl-stabilized turbulent premixed flames, Int. J. Heat Fluid Flow.	
@@ -28,3 +23,9 @@ This code includes the required MATALB scripts for calculating the velocity and 
 [2]  A. Towne, O. T. Schmidt, T. Colonius, Spectral proper orthogonal decomposition and its relationship to dynamic mode decomposition and resolvent analysis, J. of Fluid Mech. 847, 821–867, 2018.
 
 [3] R. Chartrand, Numerical differentiation of noisy, nonsmooth, multidimensional data, in: 2017 IEEE Global Conference on Signal and Information Processing (GlobalSIP), IEEE, 2017, pp. 244–248.
+
+# Contacts
+If you have any question, please do not hesitate to contact us via either of these emails.
+  - Sina.kheirkhah@ubc.ca
+  - vahid.ahmadi@ubc.ca
+  - ahmadi.v.1380@gmail.com
